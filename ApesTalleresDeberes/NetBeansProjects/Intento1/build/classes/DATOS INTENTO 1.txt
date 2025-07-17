@@ -1,0 +1,1 @@
+1234567890;Juan;Pérez;Contabilidad;Analista;jperez@empresa.com;0987654321

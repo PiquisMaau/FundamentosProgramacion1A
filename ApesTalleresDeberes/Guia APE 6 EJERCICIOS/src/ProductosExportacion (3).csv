@@ -1,0 +1,504 @@
+id;mes;anio;pais;tipoProducto;pesoToneladas;montoMillonesDolares
+1;Septiembre;2024;Nicaragua;flores;196;4804.5703
+2;Junio;2022;Brasil;cosmeticos;133;2082.3462
+3;Febrero;2022;Costa Rica;textiles;157;2109.2087
+4;Abril;2021;Bolivia;frutas;90;877.193
+5;Noviembre;2021;Argentina;textiles;64;4543.9066
+6;Agosto;2020;Uruguay;frutas;140;120.2863
+7;Noviembre;2021;Paraguay;pesca;85;3893.5592
+8;Noviembre;2023;Peru;cosmeticos;51;4211.8463
+9;Marzo;2021;Brasil;flores;26;494.1218
+10;Octubre;2020;Panama;cacao;28;1980.4517
+11;Mayo;2020;Bolivia;cosmeticos;77;4812.7938
+12;Noviembre;2020;Guatemala;cafe;154;1417.5475
+13;Diciembre;2020;Nicaragua;flores;104;1734.4815
+14;Diciembre;2022;Canada;cosmeticos;150;1135.8702
+15;Mayo;2020;Peru;cosmeticos;150;2209.8733
+16;Noviembre;2022;Mexico;cacao;176;3569.0585
+17;Abril;2024;Nicaragua;cacao;175;4751.7527
+18;Junio;2019;Guatemala;cosmeticos;96;2418.5808
+19;Diciembre;2022;El Salvador;frutas;25;789.4801
+20;Febrero;2020;Mexico;pesca;189;991.6939
+21;Julio;2022;Colombia;banano;119;3866.7169
+22;Abril;2024;Argentina;frutas;33;315.4212
+23;Agosto;2019;Brasil;textiles;156;3900.0142
+24;Junio;2020;Cuba;cosmeticos;38;4256.2999
+25;Enero;2019;Brasil;cafe;49;2170.647
+26;Septiembre;2020;Argentina;cosmeticos;60;4475.2302
+27;Agosto;2023;Panama;frutas;199;4665.8164
+28;Agosto;2021;Honduras;frutas;6;4975.2107
+29;Octubre;2019;Brasil;cafe;152;2353.1981
+30;Septiembre;2024;El Salvador;cosmeticos;174;2724.0276
+31;Octubre;2020;Honduras;cosmeticos;102;2229.1423
+32;Febrero;2020;Brasil;frutas;91;4732.5899
+33;Enero;2023;Estados Unidos;frutas;176;1718.432
+34;Mayo;2021;Peru;cafe;134;1851.542
+35;Noviembre;2019;Uruguay;flores;65;1845.8155
+36;Mayo;2023;Republica Dominicana;textiles;46;4844.8337
+37;Mayo;2021;Nicaragua;textiles;44;3758.0218
+38;Marzo;2021;Venezuela;flores;62;4487.6933
+39;Octubre;2019;Nicaragua;pesca;56;3489.4016
+40;Octubre;2024;Mexico;cacao;139;349.8888
+41;Diciembre;2023;Mexico;cafe;186;2025.9575
+42;Enero;2022;Venezuela;flores;158;4155.661
+43;Diciembre;2024;Uruguay;cafe;188;889.6332
+44;Marzo;2020;Nicaragua;cacao;170;3385.8887
+45;Febrero;2024;Costa Rica;cafe;60;2319.7204
+46;Junio;2022;Nicaragua;pesca;29;1389.1849
+47;Abril;2019;Mexico;pesca;158;199.2878
+48;Febrero;2020;Chile;pesca;21;3673.5517
+49;Febrero;2023;Nicaragua;flores;182;254.1755
+50;Agosto;2023;Costa Rica;flores;142;4152.4846
+51;Octubre;2022;Argentina;cafe;167;3377.6384
+52;Septiembre;2022;Republica Dominicana;cosmeticos;31;3746.4186
+53;Noviembre;2020;Colombia;frutas;159;2048.5412
+54;Marzo;2019;Mexico;frutas;163;3605.7491
+55;Noviembre;2023;Estados Unidos;cacao;43;2504.7127
+56;Noviembre;2019;Brasil;cacao;128;3069.1565
+57;Octubre;2023;Panama;pesca;107;2299.5839
+58;Abril;2021;Puerto Rico;frutas;13;970.6762
+59;Marzo;2020;Colombia;cafe;176;3345.2903
+60;Diciembre;2022;Guatemala;cacao;40;2277.4175
+61;Julio;2020;Cuba;banano;116;4115.8463
+62;Julio;2024;Republica Dominicana;cosmeticos;116;3427.3231
+63;Noviembre;2024;Nicaragua;frutas;145;1484.4853
+64;Febrero;2021;Estados Unidos;cacao;17;3794.7542
+65;Mayo;2021;Uruguay;flores;84;4471.8065
+66;Abril;2023;Mexico;textiles;191;1076.5282
+67;Diciembre;2019;Paraguay;pesca;17;1259.0504
+68;Noviembre;2020;Paraguay;frutas;20;3815.8161
+69;Febrero;2021;Uruguay;flores;37;4509.5672
+70;Junio;2023;Bolivia;textiles;134;402.0719
+71;Diciembre;2021;Argentina;cafe;10;1276.3113
+72;Diciembre;2020;Bolivia;flores;69;2869.5536
+73;Abril;2020;Colombia;textiles;144;2081.9008
+74;Febrero;2024;Guatemala;banano;151;3548.1876
+75;Mayo;2024;Canada;flores;122;2141.3674
+76;Noviembre;2021;El Salvador;frutas;182;825.4526
+77;Agosto;2020;Canada;flores;119;4197.5017
+78;Abril;2020;Venezuela;pesca;89;1201.0842
+79;Abril;2024;Guatemala;cacao;144;2859.282
+80;Septiembre;2024;Uruguay;flores;197;4397.1537
+81;Julio;2023;Costa Rica;flores;2;1711.4686
+82;Septiembre;2024;Chile;frutas;91;4200.9594
+83;Febrero;2019;Chile;banano;132;3189.4766
+84;Septiembre;2022;Chile;cacao;185;792.7958
+85;Junio;2023;Colombia;cacao;29;1099.5939
+86;Noviembre;2021;Republica Dominicana;textiles;92;4548.9256
+87;Julio;2021;Argentina;banano;3;342.49
+88;Abril;2019;Cuba;cafe;76;4977.5294
+89;Mayo;2021;El Salvador;pesca;48;4126.4235
+90;Enero;2020;Paraguay;cafe;118;1036.4857
+91;Julio;2024;Cuba;banano;145;3665.8846
+92;Julio;2021;Colombia;cafe;67;2836.0172
+93;Agosto;2022;Cuba;flores;97;3573.5304
+94;Octubre;2023;Panama;flores;167;3582.4165
+95;Febrero;2023;Canada;cosmeticos;15;4281.4961
+96;Junio;2023;Nicaragua;cafe;13;4848.8584
+97;Septiembre;2020;Costa Rica;flores;83;378.9394
+98;Junio;2022;Cuba;cafe;16;694.3519
+99;Noviembre;2020;Republica Dominicana;textiles;96;4139.6357
+100;Agosto;2021;Uruguay;flores;109;2209.5879
+101;Junio;2020;Brasil;flores;123;156.0414
+102;Agosto;2019;Estados Unidos;flores;104;2576.4114
+103;Enero;2022;Paraguay;cacao;27;3131.717
+104;Octubre;2021;Brasil;cafe;135;4819.6727
+105;Marzo;2021;Venezuela;cosmeticos;92;873.1477
+106;Junio;2023;Republica Dominicana;banano;161;2563.7801
+107;Mayo;2023;Brasil;cafe;42;3644.2793
+108;Marzo;2022;Republica Dominicana;cosmeticos;195;3283.1416
+109;Marzo;2021;Mexico;cosmeticos;40;3932.4572
+110;Julio;2022;Colombia;pesca;153;3576.6979
+111;Septiembre;2024;Puerto Rico;banano;15;1447.7048
+112;Diciembre;2022;Nicaragua;banano;188;2105.0663
+113;Octubre;2023;Panama;flores;144;1125.7872
+114;Febrero;2020;Uruguay;cacao;167;3735.2788
+115;Abril;2022;Costa Rica;frutas;44;3191.5038
+116;Mayo;2019;Colombia;textiles;43;1397.1691
+117;Mayo;2021;Uruguay;flores;83;1845.1559
+118;Mayo;2022;Mexico;cosmeticos;120;2984.5639
+119;Mayo;2020;Estados Unidos;cosmeticos;144;1143.0884
+120;Julio;2024;Argentina;cafe;64;307.0973
+121;Diciembre;2023;Bolivia;cafe;28;564.5957
+122;Abril;2019;Nicaragua;cacao;139;3144.6704
+123;Julio;2023;Chile;flores;103;4148.0265
+124;Octubre;2021;Puerto Rico;cacao;153;2566.4982
+125;Octubre;2020;Republica Dominicana;flores;83;4844.3476
+126;Octubre;2020;Nicaragua;cafe;160;217.943
+127;Noviembre;2019;El Salvador;textiles;174;668.128
+128;Octubre;2021;Peru;cosmeticos;52;848.4303
+129;Febrero;2019;Paraguay;cafe;127;1786.2392
+130;Noviembre;2023;Colombia;banano;73;3518.6051
+131;Junio;2019;Estados Unidos;textiles;43;3602.3636
+132;Marzo;2023;Nicaragua;cafe;161;811.5885
+133;Marzo;2024;Puerto Rico;pesca;104;2171.5164
+134;Octubre;2019;Canada;cosmeticos;183;79.8952
+135;Mayo;2019;Republica Dominicana;flores;194;4041.6232
+136;Febrero;2021;Venezuela;pesca;153;2539.4267
+137;Septiembre;2023;Estados Unidos;textiles;55;1631.6536
+138;Febrero;2022;Nicaragua;cacao;72;2867.2612
+139;Diciembre;2024;El Salvador;cafe;93;442.1353
+140;Marzo;2023;Venezuela;cosmeticos;5;1603.8613
+141;Marzo;2022;Nicaragua;cafe;48;414.1664
+142;Febrero;2020;Costa Rica;cafe;114;3891.1993
+143;Octubre;2023;Argentina;banano;191;4603.4241
+144;Junio;2023;Venezuela;banano;5;2335.2151
+145;Octubre;2022;Paraguay;textiles;149;4485.9207
+146;Julio;2019;El Salvador;textiles;198;2562.488
+147;Diciembre;2021;Canada;flores;6;293.3693
+148;Agosto;2020;Bolivia;banano;33;2180.2449
+149;Octubre;2024;Colombia;flores;63;1285.711
+150;Octubre;2021;Nicaragua;textiles;58;1243.5965
+151;Febrero;2024;Panama;frutas;49;680.7719
+152;Abril;2022;Mexico;banano;49;4861.5678
+153;Agosto;2023;Costa Rica;cafe;49;2549.8834
+154;Julio;2024;Canada;cacao;10;4424.2641
+155;Marzo;2020;Chile;flores;153;2453.4498
+156;Mayo;2019;Uruguay;textiles;110;2426.066
+157;Octubre;2020;Guatemala;textiles;15;4688.8145
+158;Febrero;2023;Venezuela;pesca;79;344.7423
+159;Agosto;2019;Mexico;cacao;52;2788.9859
+160;Abril;2022;Nicaragua;frutas;29;928.5994
+161;Octubre;2024;Canada;cafe;94;3399.6696
+162;Noviembre;2024;Chile;banano;181;3440.8922
+163;Octubre;2019;El Salvador;cafe;116;3232.9092
+164;Noviembre;2020;Republica Dominicana;frutas;78;681.087
+165;Enero;2021;Canada;frutas;61;1607.1645
+166;Marzo;2024;Honduras;cacao;142;4540.7808
+167;Julio;2022;Uruguay;flores;4;2500.7963
+168;Octubre;2019;Peru;flores;29;3000.0525
+169;Febrero;2024;Peru;frutas;140;1964.1133
+170;Agosto;2019;Venezuela;frutas;94;4839.8386
+171;Marzo;2022;Mexico;textiles;102;430.5574
+172;Octubre;2023;Costa Rica;cacao;129;4811.2045
+173;Mayo;2021;Costa Rica;textiles;182;1803.0891
+174;Agosto;2019;Peru;cacao;181;2731.1799
+175;Febrero;2022;Mexico;frutas;87;4026.8535
+176;Enero;2024;Uruguay;banano;139;4686.0775
+177;Abril;2019;Cuba;cacao;25;2535.0134
+178;Marzo;2019;Uruguay;textiles;189;1504.1192
+179;Abril;2021;Canada;pesca;7;139.1411
+180;Agosto;2023;Mexico;banano;168;3400.176
+181;Julio;2022;Estados Unidos;banano;141;1366.7155
+182;Mayo;2023;Nicaragua;banano;139;3352.1575
+183;Junio;2020;Argentina;cosmeticos;67;3201.3126
+184;Septiembre;2020;Panama;textiles;119;3870.2989
+185;Septiembre;2019;Bolivia;frutas;162;1150.4788
+186;Diciembre;2024;Republica Dominicana;cacao;41;4896.3365
+187;Noviembre;2019;Mexico;pesca;21;3885.2599
+188;Abril;2024;Brasil;cacao;152;1647.8915
+189;Septiembre;2021;Honduras;cacao;163;2114.4385
+190;Mayo;2021;Honduras;cacao;155;1998.3643
+191;Enero;2020;Peru;cafe;170;3739.6621
+192;Julio;2023;Republica Dominicana;textiles;46;136.9836
+193;Julio;2021;Venezuela;pesca;97;4846.2687
+194;Julio;2023;Honduras;cosmeticos;131;2073.6245
+195;Noviembre;2024;Venezuela;cafe;65;2819.4535
+196;Diciembre;2020;Chile;textiles;65;98.0498
+197;Enero;2023;Mexico;textiles;86;2232.0635
+198;Junio;2023;Canada;cacao;39;2411.7727
+199;Mayo;2021;Republica Dominicana;pesca;45;3841.8134
+200;Septiembre;2022;Canada;banano;60;150.5783
+201;Enero;2019;Puerto Rico;cafe;14;128.9958
+202;Enero;2022;Puerto Rico;textiles;109;4280.4434
+203;Noviembre;2024;Colombia;frutas;76;3133.6053
+204;Septiembre;2023;Nicaragua;pesca;92;4897.5175
+205;Noviembre;2022;Panama;cafe;17;2533.3995
+206;Enero;2021;Colombia;cosmeticos;28;3872.5397
+207;Julio;2021;El Salvador;cosmeticos;30;2164.0926
+208;Noviembre;2022;Chile;flores;9;1682.5199
+209;Febrero;2024;Cuba;pesca;43;2121.4363
+210;Junio;2021;Colombia;flores;68;198.7379
+211;Noviembre;2023;Canada;frutas;200;3431.6143
+212;Junio;2022;Cuba;textiles;105;1345.593
+213;Diciembre;2020;Canada;banano;7;1649.82
+214;Noviembre;2022;Venezuela;pesca;63;2338.1578
+215;Noviembre;2024;Estados Unidos;frutas;1;193.012
+216;Febrero;2020;Republica Dominicana;cafe;166;4551.042
+217;Marzo;2022;Venezuela;flores;29;4865.0246
+218;Mayo;2022;Bolivia;cacao;144;584.4189
+219;Agosto;2022;Colombia;frutas;183;3050.6765
+220;Noviembre;2019;Venezuela;cacao;70;82.5555
+221;Mayo;2022;Puerto Rico;pesca;183;417.3647
+222;Octubre;2023;Paraguay;cafe;188;66.6907
+223;Junio;2019;Bolivia;frutas;116;2226.6084
+224;Abril;2021;Chile;flores;7;1811.0135
+225;Noviembre;2022;Venezuela;pesca;86;4247.2341
+226;Marzo;2021;Venezuela;banano;29;2623.2302
+227;Abril;2022;Peru;cosmeticos;9;1489.9726
+228;Noviembre;2024;Paraguay;frutas;88;1212.9463
+229;Febrero;2023;Nicaragua;banano;139;3556.5211
+230;Julio;2020;Panama;banano;54;2126.4061
+231;Marzo;2022;Estados Unidos;cafe;95;624.5733
+232;Junio;2020;Cuba;banano;35;2419.2295
+233;Abril;2022;Panama;banano;23;4261.7751
+234;Enero;2020;Peru;cosmeticos;107;3213.1222
+235;Septiembre;2023;Estados Unidos;flores;181;3428.8299
+236;Marzo;2020;Brasil;flores;129;1546.3915
+237;Julio;2021;Guatemala;pesca;172;1400.7233
+238;Agosto;2020;Guatemala;cafe;131;2941.3714
+239;Agosto;2020;El Salvador;banano;146;4098.916
+240;Noviembre;2020;Republica Dominicana;cosmeticos;151;2137.5737
+241;Octubre;2019;Republica Dominicana;flores;77;2656.5529
+242;Noviembre;2019;Chile;textiles;83;979.7978
+243;Octubre;2023;Estados Unidos;frutas;114;4943.8678
+244;Abril;2023;Republica Dominicana;banano;99;1886.1038
+245;Noviembre;2021;El Salvador;cosmeticos;72;597.8115
+246;Mayo;2023;Estados Unidos;banano;192;1009.1217
+247;Agosto;2020;Chile;cosmeticos;14;3551.5838
+248;Julio;2021;Costa Rica;pesca;127;3869.8314
+249;Diciembre;2020;Puerto Rico;pesca;103;2400.4812
+250;Mayo;2024;Nicaragua;frutas;172;4030.2822
+251;Julio;2020;Estados Unidos;cafe;106;3106.5244
+252;Julio;2023;Guatemala;cosmeticos;81;656.1095
+253;Junio;2024;Costa Rica;banano;55;2693.6934
+254;Noviembre;2023;Mexico;banano;90;4303.378
+255;Abril;2024;Mexico;flores;169;1929.3336
+256;Septiembre;2019;Costa Rica;frutas;12;598.3953
+257;Abril;2019;Argentina;cosmeticos;1;2281.0983
+258;Septiembre;2020;Brasil;textiles;48;3199.8642
+259;Marzo;2020;El Salvador;pesca;159;3494.4663
+260;Abril;2021;Guatemala;cacao;195;600.9432
+261;Agosto;2024;Puerto Rico;cosmeticos;168;3344.8184
+262;Diciembre;2022;Puerto Rico;banano;3;3926.3668
+263;Diciembre;2024;Cuba;cosmeticos;139;901.7289
+264;Diciembre;2024;Uruguay;textiles;82;2276.7633
+265;Febrero;2019;El Salvador;frutas;100;2771.6573
+266;Abril;2024;Mexico;textiles;145;269.8549
+267;Febrero;2021;Puerto Rico;cacao;28;2210.8922
+268;Enero;2024;Venezuela;banano;172;261.4235
+269;Septiembre;2023;Costa Rica;cosmeticos;3;2765.5502
+270;Junio;2021;Chile;banano;118;4783.8267
+271;Febrero;2019;Peru;cacao;184;2645.8529
+272;Julio;2022;Colombia;flores;154;938.9482
+273;Noviembre;2023;Mexico;banano;100;3935.1834
+274;Junio;2022;Canada;banano;147;3268.6207
+275;Febrero;2023;Uruguay;textiles;50;808.9458
+276;Septiembre;2024;Estados Unidos;pesca;2;838.137
+277;Septiembre;2019;Brasil;pesca;154;3982.0728
+278;Febrero;2020;Canada;cosmeticos;126;4988.681
+279;Septiembre;2021;Paraguay;frutas;61;1864.0592
+280;Julio;2024;Panama;cafe;31;1759.1021
+281;Enero;2022;Venezuela;textiles;23;1495.6989
+282;Noviembre;2019;Cuba;cacao;27;968.3982
+283;Julio;2024;Canada;banano;56;887.5644
+284;Julio;2024;Panama;textiles;189;474.4397
+285;Diciembre;2023;Nicaragua;frutas;191;1515.315
+286;Marzo;2019;Honduras;flores;39;1801.799
+287;Mayo;2024;Peru;flores;116;4921.5326
+288;Abril;2020;Bolivia;cacao;100;2453.3247
+289;Abril;2021;Uruguay;banano;78;297.8773
+290;Julio;2024;Guatemala;flores;180;3554.4198
+291;Enero;2024;Brasil;banano;198;1689.6361
+292;Marzo;2019;Guatemala;flores;194;1489.0428
+293;Julio;2020;Panama;cacao;147;1655.1756
+294;Abril;2019;Estados Unidos;flores;118;1263.513
+295;Marzo;2022;Chile;banano;158;3443.4872
+296;Junio;2021;Cuba;cacao;121;2107.0833
+297;Octubre;2019;Costa Rica;banano;134;3171.8483
+298;Agosto;2021;Mexico;flores;68;4821.079
+299;Agosto;2023;Chile;cafe;66;3138.411
+300;Enero;2022;Costa Rica;cacao;88;3516.6552
+301;Julio;2020;Peru;cosmeticos;151;3719.0845
+302;Diciembre;2019;Cuba;pesca;70;1409.9436
+303;Abril;2024;Paraguay;flores;11;2114.1864
+304;Junio;2019;Uruguay;pesca;26;2864.4407
+305;Noviembre;2023;Peru;cosmeticos;121;4944.4489
+306;Junio;2022;Cuba;textiles;21;2267.296
+307;Febrero;2021;Estados Unidos;cafe;108;38.2866
+308;Abril;2021;Mexico;flores;168;12.2897
+309;Febrero;2020;Nicaragua;cacao;113;4619.1975
+310;Mayo;2024;Chile;flores;98;652.5644
+311;Agosto;2020;Venezuela;frutas;17;2631.256
+312;Noviembre;2020;Nicaragua;cacao;156;1015.0328
+313;Octubre;2023;Argentina;frutas;196;4495.5494
+314;Marzo;2019;Costa Rica;pesca;170;1161.3387
+315;Noviembre;2020;Peru;banano;7;1203.3338
+316;Abril;2019;Panama;frutas;186;3295.7074
+317;Enero;2024;Estados Unidos;textiles;189;3820.5089
+318;Octubre;2020;Bolivia;textiles;178;4236.1326
+319;Abril;2022;El Salvador;textiles;22;3249.2159
+320;Octubre;2024;Guatemala;banano;75;3693.3783
+321;Noviembre;2020;Uruguay;flores;64;234.2765
+322;Agosto;2022;Argentina;banano;123;1595.1606
+323;Abril;2021;Bolivia;banano;122;4867.7532
+324;Julio;2021;Chile;frutas;142;564.7616
+325;Enero;2022;Uruguay;banano;95;1329.2841
+326;Enero;2022;Mexico;textiles;169;919.664
+327;Junio;2020;Puerto Rico;banano;150;3628.7056
+328;Octubre;2019;Canada;cosmeticos;172;35.9482
+329;Abril;2023;Guatemala;banano;46;1559.2866
+330;Julio;2022;Bolivia;cacao;36;3946.3509
+331;Noviembre;2023;Brasil;cafe;117;1114.6598
+332;Septiembre;2023;Peru;frutas;166;3639.2879
+333;Abril;2020;Venezuela;frutas;4;1816.6388
+334;Abril;2020;Bolivia;pesca;103;1732.8993
+335;Diciembre;2022;El Salvador;frutas;76;3048.2477
+336;Mayo;2022;Costa Rica;cafe;116;2030.1697
+337;Diciembre;2022;Venezuela;cafe;111;3624.4768
+338;Julio;2021;Venezuela;pesca;35;4056.8124
+339;Noviembre;2019;Uruguay;cosmeticos;192;1395.1887
+340;Septiembre;2021;Canada;cosmeticos;158;4266.916
+341;Enero;2021;Brasil;cafe;87;4086.0482
+342;Septiembre;2019;El Salvador;pesca;158;330.1045
+343;Abril;2023;Bolivia;pesca;128;1128.9469
+344;Agosto;2020;Puerto Rico;pesca;27;3072.6332
+345;Junio;2020;Venezuela;cosmeticos;78;1533.8297
+346;Agosto;2023;Paraguay;pesca;107;4439.9765
+347;Mayo;2020;Brasil;pesca;136;4191.8641
+348;Junio;2024;Cuba;flores;4;102.4181
+349;Enero;2021;Canada;cafe;158;1267.437
+350;Septiembre;2023;Costa Rica;frutas;45;634.6986
+351;Junio;2022;Uruguay;textiles;124;150.4913
+352;Febrero;2020;Colombia;banano;178;108.3276
+353;Junio;2024;Honduras;cacao;96;3279.3152
+354;Enero;2024;Argentina;flores;178;2961.7399
+355;Noviembre;2021;Colombia;textiles;36;2343.0682
+356;Diciembre;2023;Guatemala;banano;113;490.6682
+357;Junio;2023;Brasil;frutas;196;3857.044
+358;Septiembre;2024;Republica Dominicana;cacao;39;2852.0483
+359;Septiembre;2024;Colombia;frutas;105;455.7324
+360;Noviembre;2021;Uruguay;cacao;42;3879.7769
+361;Marzo;2023;Panama;cosmeticos;63;1527.0827
+362;Marzo;2021;Uruguay;banano;28;2569.2219
+363;Febrero;2020;Peru;cosmeticos;30;4674.3159
+364;Febrero;2020;Nicaragua;cafe;187;3736.0564
+365;Agosto;2022;Costa Rica;textiles;16;293.0624
+366;Noviembre;2019;Panama;pesca;78;2275.7352
+367;Marzo;2024;Canada;banano;151;4977.8464
+368;Julio;2021;Bolivia;pesca;82;4419.623
+369;Septiembre;2024;Colombia;cacao;192;1840.5453
+370;Diciembre;2022;Argentina;cafe;158;494.9626
+371;Marzo;2019;Peru;flores;182;2649.4831
+372;Septiembre;2019;Mexico;pesca;23;769.8658
+373;Febrero;2020;Peru;flores;4;3449.0061
+374;Mayo;2023;Venezuela;cacao;72;3627.6198
+375;Enero;2022;Cuba;banano;79;247.0115
+376;Marzo;2021;Venezuela;banano;74;955.8075
+377;Agosto;2020;El Salvador;cacao;138;4170.8925
+378;Enero;2021;Estados Unidos;cafe;35;3370.9626
+379;Abril;2019;Colombia;pesca;110;1989.1705
+380;Diciembre;2023;Mexico;cafe;173;4105.688
+381;Noviembre;2023;Peru;frutas;9;4945.4326
+382;Febrero;2022;Chile;banano;90;2663.1142
+383;Julio;2019;Cuba;cafe;144;4447.6924
+384;Junio;2024;Mexico;textiles;55;3184.977
+385;Diciembre;2020;Chile;banano;52;3292.2746
+386;Septiembre;2023;Nicaragua;cacao;21;291.8382
+387;Noviembre;2021;Panama;pesca;120;2409.3847
+388;Septiembre;2021;El Salvador;flores;63;1828.6567
+389;Enero;2019;Guatemala;flores;83;3459.1123
+390;Julio;2020;Uruguay;cosmeticos;26;2282.206
+391;Enero;2020;Argentina;flores;96;1539.5464
+392;Octubre;2022;Panama;cacao;78;2682.4857
+393;Septiembre;2021;Venezuela;banano;127;2411.5829
+394;Diciembre;2019;Nicaragua;frutas;66;483.3925
+395;Agosto;2021;Brasil;pesca;20;4850.6084
+396;Diciembre;2024;Puerto Rico;cafe;128;257.5599
+397;Agosto;2022;Colombia;textiles;72;125.2203
+398;Abril;2021;Panama;cosmeticos;120;2084.7858
+399;Marzo;2020;Puerto Rico;cafe;198;1295.7551
+400;Agosto;2023;El Salvador;flores;61;199.3897
+401;Julio;2023;El Salvador;cosmeticos;83;3191.5101
+402;Febrero;2024;Argentina;pesca;188;1792.3105
+403;Diciembre;2021;Costa Rica;cafe;123;4046.4073
+404;Junio;2019;Panama;cacao;124;2543.3749
+405;Junio;2021;Puerto Rico;frutas;198;525.9475
+406;Abril;2022;Bolivia;cafe;15;2186.9162
+407;Enero;2022;Panama;pesca;65;4739.7656
+408;Enero;2023;Peru;textiles;168;4531.3764
+409;Octubre;2024;Cuba;cacao;97;540.4932
+410;Noviembre;2021;Puerto Rico;cafe;138;168.0431
+411;Diciembre;2023;Costa Rica;cafe;23;3700.6533
+412;Diciembre;2022;Mexico;cacao;156;1928.8067
+413;Mayo;2019;Honduras;flores;152;2578.2911
+414;Diciembre;2020;Venezuela;cacao;136;2311.8861
+415;Julio;2022;Bolivia;frutas;80;676.4248
+416;Mayo;2021;Republica Dominicana;cosmeticos;82;422.9861
+417;Julio;2023;Puerto Rico;banano;72;3241.9806
+418;Septiembre;2022;Cuba;cacao;33;4090.2603
+419;Junio;2022;Chile;banano;116;2386.3793
+420;Diciembre;2023;Guatemala;frutas;186;1260.7345
+421;Abril;2022;Bolivia;cacao;107;4661.346
+422;Abril;2020;Colombia;pesca;158;448.5062
+423;Junio;2023;Paraguay;banano;138;1167.0575
+424;Diciembre;2020;Colombia;pesca;152;1967.7992
+425;Enero;2019;Canada;frutas;183;3572.7597
+426;Diciembre;2023;Chile;banano;76;1469.3635
+427;Noviembre;2021;Nicaragua;cacao;12;4883.9364
+428;Diciembre;2024;Brasil;cafe;76;2247.3263
+429;Junio;2020;Republica Dominicana;cosmeticos;19;4235.6053
+430;Agosto;2019;Paraguay;pesca;160;1167.0278
+431;Julio;2019;Honduras;cafe;154;1518.296
+432;Noviembre;2024;Venezuela;cosmeticos;139;3193.2763
+433;Octubre;2020;Colombia;textiles;124;1344.5565
+434;Mayo;2021;Puerto Rico;flores;190;1379.2258
+435;Agosto;2019;Canada;cacao;163;3968.3207
+436;Noviembre;2021;Cuba;frutas;198;578.2568
+437;Febrero;2023;Colombia;cafe;84;3697.5028
+438;Octubre;2022;Republica Dominicana;cosmeticos;36;3933.9346
+439;Noviembre;2020;Chile;cosmeticos;58;1441.2583
+440;Abril;2024;Bolivia;banano;119;2512.1075
+441;Enero;2020;Cuba;cafe;3;4256.2442
+442;Noviembre;2024;Venezuela;pesca;74;3931.1253
+443;Diciembre;2019;Peru;frutas;10;281.466
+444;Mayo;2022;Honduras;frutas;94;2951.7377
+445;Septiembre;2024;Estados Unidos;cosmeticos;61;3992.3154
+446;Agosto;2019;Guatemala;flores;81;904.2426
+447;Agosto;2024;Venezuela;cacao;128;4573.29
+448;Febrero;2020;Brasil;pesca;150;1164.1105
+449;Marzo;2022;Panama;banano;140;4077.9571
+450;Marzo;2022;Puerto Rico;flores;43;4132.1289
+451;Enero;2020;Mexico;cafe;115;1636.7962
+452;Marzo;2020;Republica Dominicana;flores;8;4746.2874
+453;Febrero;2020;Costa Rica;flores;92;1165.4356
+454;Enero;2023;Paraguay;cosmeticos;141;1383.6594
+455;Junio;2021;Republica Dominicana;frutas;157;3302.8464
+456;Julio;2021;Bolivia;banano;148;1508.5342
+457;Enero;2024;Panama;banano;66;1063.7325
+458;Octubre;2019;Costa Rica;flores;88;3309.7849
+459;Diciembre;2020;Colombia;cosmeticos;196;1259.2155
+460;Agosto;2022;Nicaragua;frutas;91;1418.2471
+461;Octubre;2020;Cuba;cosmeticos;59;1111.3357
+462;Septiembre;2021;Peru;flores;88;4624.3639
+463;Septiembre;2019;Costa Rica;cafe;38;3190.3761
+464;Agosto;2024;Peru;pesca;137;3405.9253
+465;Mayo;2024;Uruguay;pesca;64;4740.0215
+466;Noviembre;2019;Paraguay;frutas;55;823.2286
+467;Enero;2019;Cuba;cafe;137;844.6573
+468;Abril;2020;Republica Dominicana;pesca;21;4384.5694
+469;Marzo;2021;Peru;textiles;88;953.9454
+470;Abril;2019;Costa Rica;pesca;12;3521.002
+471;Agosto;2020;Nicaragua;cafe;99;3459.7754
+472;Marzo;2020;Argentina;cosmeticos;53;2429.2774
+473;Octubre;2021;Paraguay;frutas;133;4500.3087
+474;Octubre;2023;Colombia;flores;54;4806.4667
+475;Abril;2020;Colombia;flores;71;449.0077
+476;Septiembre;2020;Brasil;cacao;8;1337.4559
+477;Febrero;2022;Panama;cacao;177;564.0996
+478;Febrero;2024;Guatemala;cosmeticos;16;3964.5425
+479;Abril;2024;Panama;textiles;77;1456.4724
+480;Octubre;2024;Costa Rica;cafe;17;3943.2858
+481;Febrero;2020;Brasil;cafe;113;3373.8943
+482;Octubre;2024;Canada;cosmeticos;146;4472.5191
+483;Junio;2021;Uruguay;flores;39;2722.2245
+484;Diciembre;2019;Cuba;frutas;162;3070.2492
+485;Enero;2023;Republica Dominicana;flores;181;321.4816
+486;Abril;2023;Puerto Rico;cacao;147;4170.5862
+487;Enero;2023;Uruguay;pesca;62;3472.1926
+488;Mayo;2019;Mexico;frutas;189;1054.6838
+489;Noviembre;2020;Canada;pesca;191;3776.3805
+490;Septiembre;2021;Bolivia;cacao;171;4710.3459
+491;Agosto;2023;Chile;cafe;108;105.8012
+492;Julio;2024;Chile;cacao;44;655.9527
+493;Junio;2019;Peru;cacao;56;1443.2008
+494;Febrero;2023;Nicaragua;cacao;45;542.9999
+495;Abril;2022;Venezuela;cafe;22;612.5676
+496;Agosto;2024;Panama;cacao;14;3221.9325
+497;Septiembre;2019;Colombia;textiles;56;1976.9375
+498;Julio;2024;El Salvador;cafe;15;749.0492
+499;Febrero;2023;Puerto Rico;textiles;60;3647.8312
+500;Julio;2021;Chile;flores;169;3313.7863
+501;Junio;2021;Ecuador;Papas;55;2345.565
+501;Junio;2021;Ecuador;Papas;55;2345.565
+501;Junio;2021;Ecuador;Papas;55;2345.565

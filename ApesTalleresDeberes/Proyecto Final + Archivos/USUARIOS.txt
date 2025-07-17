@@ -1,0 +1,17 @@
+1804764551;Solis;Sebastian;0961390722;Empleado;sebaspico@outlook.com;Farmacia
+0901234567;Mendoza;Carlos;0992233445;cliente;carlos.mendoza@email.com;Alborada
+0902345678;Ruiz;Fernanda;0993344556;vendedor;fer.ruiz@correo.com;Urdesa
+0903456789;Páez;Luis;0981122334;cliente;luispaez@ejemplo.com;Sauces 6
+0904567890;Cevallos;Gabriela;0994433221;bodeguero;g.cevallos@farmaguaya.com;Samanes
+0905678901;León;Diego;0989988776;cliente;diegoleon@correo.com;Miraflores
+0906789012;Vélez;Tatiana;0995566778;vendedor;tatiana.v@correo.com;La Garzota
+0907890123;Ramírez;Martín;0987766554;cliente;martin.ramirez@outlook.com;Puerto Azul
+0908901234;Saltos;Vanessa;0983344556;bodeguero;v.saltos@farmasol.com;Bastión Popular
+0909012345;Ayala;Paola;0991112233;vendedor;paola.ayala@correo.com;Ceibos
+1801123456;Soto;Esteban;0986677885;CLIENTE;estebans@correo.com;Huachi Chico
+1802234567;Loor;Daniela;0982233445;CLIENTE;daniloor@gmail.com;Ficoa
+1803345678;Ponce;Kevin;0998887776;CLIENTE;k.ponce@correo.com;La Merced
+1804456789;Yánez;Andrea;0990001122;JEFE;andreayanez@direccion.com;La Presidencial
+1805567890;Moreira;Javier;0987654321;VENDEDOR;jmoreira@correo.com;Atocha
+1806678901;Espinoza;Lucía;0991122334;ADMINISTRADOR;luciaespinoza@correo.com;Quillán Loma
+

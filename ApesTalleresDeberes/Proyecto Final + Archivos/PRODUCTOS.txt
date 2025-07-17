@@ -1,0 +1,16 @@
+F001;Paracetamol 500mg (20 tabletas);99;2.5
+F002;Ibuprofeno 400mg (20 cápsulas);85;3.0
+F003;Amoxicilina 500mg (12 cápsulas);60;4.2
+F004;Omeprazol 20mg (14 cápsulas);50;3.5
+F005;Vitamina C 1g (30 tabletas);40;2.0
+F006;Loratadina 10mg (10 tabletas);70;2.8
+F007;Diclofenaco sódico 50mg (20 tabletas);55;3.1
+F008;Acetaminofén jarabe 120ml;25;2.4
+F009;Antigripal compuesto (10 sobres);30;4.0
+F010;Suero oral sabor naranja (500ml);100;1.7
+F011;Gel antibacterial 250ml;45;2.2
+F012;Toallitas húmedas 20 unidades;80;1.5
+F013;Alcohol medicinal 70% 500ml;90;1.8
+F014;Termómetro digital;20;6.5
+F015;Mascarilla KN95 (unidad);150;0.9
+
